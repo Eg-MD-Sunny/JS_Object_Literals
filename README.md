@@ -1,4 +1,4 @@
-</> JS_Object_Literals
+</> Javascript Object Literals
 
 </> Description: Object Literal<br>
 In plain English, an object literal is a comma-separated list of name-value pairs inside of curly braces.
